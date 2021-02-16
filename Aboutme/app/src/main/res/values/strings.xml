@@ -1,3 +1,46 @@
 <resources>
     <string name="app_name">About me</string>
+    <string name="name">Kromzem</string>
+    <string name="star_image_description">Big yellow star image.</string>
+    <string name="bio">
+        Wau wau\n\n
+        Miau miau\n
+        Muh muh\n
+        Wau wau\n
+        Miau miau\n
+        Muh muh\n
+        Wau wau\n
+        Miau miau\n
+        Muh muh\n
+        Wau wau\n
+        Miau miau\n
+        Muh muh\n
+        Wau wau\n
+        Miau miau\n
+        Muh muh\n
+        Wau wau\n
+        Miau miau\n
+        Muh muh\n
+        Wau wau\n
+        Miau miau\n
+        Muh muh\n
+        Wau wau\n
+        Miau miau\n
+        Muh muh\n
+        Wau wau\n
+        Miau miau\n
+        Muh muh\n
+        Wau wau\n
+        Miau miau\n
+        Muh muh\n
+        Wau wau\n
+        Miau miau\n
+        Muh muh\n
+        Wau wau\n
+        Miau miau\n
+        Muh muh\n
+    </string>
+    <string name="avatar_image">Someone, idk</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
